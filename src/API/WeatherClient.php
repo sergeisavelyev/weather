@@ -12,7 +12,8 @@ class WeatherClient
 
     public function __construct(
         private readonly string $apiKey
-    ) {
+    ) 
+    {
         $this->client = new Client();
     }
 
