@@ -1,0 +1,18 @@
+{
+    "name": "wayway/weather",
+    "description": "Weather Api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wayway\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergeisavelyev",
+            "email": "sergeisavelyev11@gmail.com"
+        }
+    ],
+    "require": {}
+}
